@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Cybersecurity Enthusiast.<h2>
 
 
-- 👋 Hi, I’m @BalthazzarHewlett
+- 👋 Hi,
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning post exploitation
 - 💞️ I’m looking to collaborate on Pentesting, Cracking, Bug Bounties and Exploitation
