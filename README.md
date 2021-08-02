@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on Pentesting, Cracking, Bug Bounties and Exploitation
 - 📫 How to reach me:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalthazzarHewlett)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BalthazzarHewlett/BalthazzarHewlett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
